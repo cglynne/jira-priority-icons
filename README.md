@@ -4,6 +4,7 @@ You need to either use the ones provided by JIRA or you need to reference extern
 This repo is to provide a stable host for these icons
 
 Atlassian provides a good reference on how to add custom priority icons.
+
 https://confluence.atlassian.com/jirakb/how-to-upload-custom-priority-icons-in-jira-788961156.html
 
 ## Solution
