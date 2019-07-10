@@ -8,7 +8,8 @@ https://confluence.atlassian.com/jirakb/how-to-upload-custom-priority-icons-in-j
 
 ## Solution
 Upload your custom icon as an attachment to any Jira Issue and right click on the image and copy the image URL.
-Click Jira Settings > Issues > Priorities
-Click the 'Edit' link next to the desired priority.
-Paste the copied URL into the Icon URL field.
-Click the Update button.
+1. Click Jira Settings > Issues > Priorities
+1. Click the 'Edit' link next to the desired priority.
+1. Paste the copied URL into the Icon URL field.
+1. Click the Update button.
+
