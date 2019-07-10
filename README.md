@@ -13,3 +13,39 @@ Upload your custom icon as an attachment to any Jira Issue and right click on th
 1. Paste the copied URL into the Icon URL field.
 1. Click the Update button.
 
+New JIRA Prioirty icons:
+
+
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/icons.jpg "New JIRA Icons")
+
+Blocker:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/blocker.png "Logo Title Text 1")
+
+Critical:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/critical.png "Logo Title Text 1")
+
+Major:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/major.png "Logo Title Text 1")
+
+Highest:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/highest.png "Logo Title Text 1")
+
+High:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/high.png "Logo Title Text 1")
+
+Medium:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/medium.png "Logo Title Text 1")
+
+Low:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/low.png "Logo Title Text 1")
+
+Lowest:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/lowest.png "Logo Title Text 1")
+
+Minor:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/minor.png "Logo Title Text 1")
+
+Trivial:
+![alt text](https://github.com/cglynne/jira_priority_icons/blob/master/jira_priority/trivial.png "Logo Title Text 1")
+
+
